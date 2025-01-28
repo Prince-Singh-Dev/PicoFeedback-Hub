@@ -24,7 +24,7 @@ The **PicoFeedback Hub** is a simple yet powerful feedback system designed using
 - **Office Surveys**: Perfect for employee feedback or quick decision-making in meetings.  
 - **DIY and Hobby Projects**: Makers and hobbyists can adapt the system for innovative projects, such as interactive installations or IoT-based experiments.
 
-### Benefits:  
+Benefits:  
 - **Ease of Use**: Simple hardware and a straightforward interface make the system user-friendly for both developers and end-users.  
 - **Cost-Effective**: Built using affordable components, it’s an economical solution for small-scale feedback systems.  
 - **Adaptability**: Its modular design and programmable nature make it adaptable for different scenarios.  
